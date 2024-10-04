@@ -1,9 +1,13 @@
 package day11;
 
-public class EncapsulationExample {
+import day12.FinalKeyword;
+
+public class EncapsulationExample{
 
 	private String name;
 	private int age;
+	
+	
 	
 	public void setName(String name) {
 		
